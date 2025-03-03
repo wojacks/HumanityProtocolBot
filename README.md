@@ -12,8 +12,7 @@ Follow these steps to set up and run the bot on your local machine.
 To start, clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/sundaybase/HumanityProtocolBot.git
-```
+git clone https://github.com/wojacks/HumanityProtocolBot.git
 
 ### 2. Change Directory to the Cloned Folder
 
